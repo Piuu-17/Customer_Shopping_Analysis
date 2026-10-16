@@ -13,6 +13,7 @@ The architecture spans data ingestion, automated cleaning, relational database w
  quality. 
 
 ##  Repository Structure
+
 ├── Business Problem Document.pdf          # Root cause analysis & business requirement specification
 ├── customer_shopping_behavior.csv         # Raw transactional retail data
 ├── customer_shopping_behavior_datacleaning_fixed.ipynb  # Production-ready Python ETL pipeline
